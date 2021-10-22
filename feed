@@ -1,9 +1,12 @@
+"xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" "xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <channel>
+        <atom:link href="https://jmgardn.github.io/feed" rel="self" type="application/rss+xml"/>
         <title>The 10 Best and 10 Worst Presidents</title>
         <link>https://libertyclassroom.com</link>
         <language>en</language>
+        <itunes:author>Brion McClanahan</itunes:author>
         <description><![CDATA[The 10 best and 10 worst US Presidents.]]></description>
         <itunes:type>episodic</itunes:type>
         <item>
